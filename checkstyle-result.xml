@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="/var/lib/jenkins/workspace/samplejar/appengine-standard-java8/helloworld/src/main/java/com/example/gaejava8standard/HelloAppEngine.java">
+</file>
+<file name="/var/lib/jenkins/workspace/samplejar/appengine-standard-java8/helloworld/src/test/java/com/example/gaejava8standard/HelloAppEngineTest.java">
+</file>
+</checkstyle>
