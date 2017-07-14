@@ -1,5 +1,5 @@
 env: flex
 runtime: custom
-service: containertest
+service: spincont
 runtime_config:
   document_root: .
